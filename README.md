@@ -20,7 +20,6 @@ Open Visual Studoi 2022 and open AdvancedProject.sln where you cloned it.
 
 Finally, press the local windows debugger button.
 
-You should also fork mine project which has more features!
-
+You should also fork create a new fork of the project which has new features!
 
 
